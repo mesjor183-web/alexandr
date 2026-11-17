@@ -20,3 +20,4 @@ Nombre completo: Emmanuel alejandro morales
 Año y sección: Primero de Software.
 Módulo: Desarrollo de Páginas Web.
 Institución: Instituto Nacional de Lolotique.
+manua elaborado para aprender el uso basico de githut
